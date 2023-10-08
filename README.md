@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/travis2319/personal-note-app/blob/main/public/assets/screenshot-webapp.jpeg" alt="project-screenshot" width="600" height="500/">
+<img src="https://github.com/travis2319/personal-note-app/blob/main/public/assets/screenshot-webapp.jpeg" alt="project-screenshot" width="1000" height="500/">
 
 <h2>💻 Built with</h2>
 
