@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/travis2319/personal-note-app/blob/main/public/assets/screenshot-webapp.jpeg" alt="project-screenshot" width="400" height="400/">
+![](https://github.com/travis2319/personal-note-app/blob/main/public/assets/keeper-notes.gif)
 
 <h2>💻 Built with</h2>
 
